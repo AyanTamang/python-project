@@ -1,1 +1,1 @@
-# python-project
+# snake-gun-water-game
